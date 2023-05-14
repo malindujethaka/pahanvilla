@@ -123,7 +123,7 @@ nav .fa{
     }
     .nav-links{
         position: absolute;
-        background: #ccc;
+        background: #F5F5DC;
         height: 55vh;
         width: 200px;
         top:0;
@@ -162,6 +162,7 @@ nav .fa{
 
    
     }
+    
       
 }
 @media (max-width:900px) {
@@ -662,11 +663,39 @@ nav .fa{
        
     }
     .near img{
-        width: auto;
-        height: 200px;
+        width: 350;
+        height: 240px;
     }
     .acco img{
-        width: auto;
+        width: 350px;
+    }
+    .acco p{
+        font-size: 16px;
+    }
+
+}
+@media(max-width:450px){
+
+    .facilities img{
+
+        width: 350px;
+        height:250px
+    }
+    .near img{
+        width: 250px;
+        height: 140px;
+    }
+    .acco img{
+        width: 350px;
+    }
+    .contact iframe{
+        width:350px;
+        height:250px;
+        position: relative;
+     }
+     .slide-show img{
+        width: 350px;
+        height:250px;
     }
 
 }
