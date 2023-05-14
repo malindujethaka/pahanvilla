@@ -124,7 +124,7 @@ nav .fa{
     .nav-links{
         position: absolute;
         background: #ccc;
-        height: 45vh;
+        height: 55vh;
         width: 200px;
         top:0;
         right:-200px;
@@ -147,7 +147,7 @@ nav .fa{
         margin-right: auto;
         margin-bottom: 10px;
         margin-top: 20px;
-        width: 450px;
+        width: auto;
         height: 300px;
         border-radius: 10px;
     }
